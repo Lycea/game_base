@@ -5,6 +5,7 @@ require("states.game_states")
 sample_state=require("states.state_sample")
 
 
+g = require("globals")
 local game ={} 
 
 

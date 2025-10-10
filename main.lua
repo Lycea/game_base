@@ -10,9 +10,6 @@ debuger = {
 
 
 class_base= require("helper.classic")
-console =require("helper.console")
-timer =require("helper.timer")
-
 game =require("game")
 
 
